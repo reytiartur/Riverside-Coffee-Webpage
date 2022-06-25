@@ -11984,4 +11984,11 @@ fieldset:disabled .btn {
   opacity: 0.4;
   height: 30px;
 }
+
+@media (max-width: 575.98px) {
+  .my-5 {
+    margin-bottom: 1rem !important;
+    margin-top: 1rem !important;
+  }
+}
 /*# sourceMappingURL=custom.css.map */
